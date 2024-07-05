@@ -1,7 +1,7 @@
-Video clasification video
-Use ConvertCSV to convert dataset to CSV
-the dataset must have format:
-Dataset
+                                    Video clasification video
+                                    Use ConvertCSV to convert dataset to CSV
+                                    the dataset must have format:
+                                    Dataset
 --------Train
 ----------CLass_1
 ------------Video1
